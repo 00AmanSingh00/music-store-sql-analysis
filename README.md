@@ -55,3 +55,14 @@ The goal of this project was to practice writing SQL queries involving:
 - filtering data across multiple tables  
 
 and to get more comfortable analyzing data stored in relational databases.
+
+## Example Query Results
+
+### Genre Revenue Analysis
+![Genre Revenue](Screenshots/Genre_Revenue.png)
+
+### Track Purchase Count
+![Most Purchased Tracks](Screenshots/highest_number_Tracks.png)
+
+### Revenue Insights
+![Revenue Result](Screenshots/mostRevenue_result.png)
